@@ -1,5 +1,5 @@
-- 👋 Hi, I’ Daniel 
-- 👀 I’m a web developer and a mobile developer in progress
+- 👋 Hi, I’m Daniel 
+- 👀 I’m a frontend web developer and a mobile developer in progress
 - 🌱 I’m currently learning React and Swift
 - 📫 How to reach me: bernalvalencia10@gmail.com
 
