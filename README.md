@@ -1,12 +1,4 @@
 
-🄳🄰🄽🄸🄴🄻 🄱🄴🅁🄽🄰🄻
-+==================================================+
-
-- 👋 Hi, I’m Daniel Bernal
-- 👀 I’m a frontend web developer and a cybersecurity student
-- 🦾 I really enjoy developing with HTML, CSS, JavaScript, and
-  React, while constantly learning about the latest technologies.
-- 📫 How to reach me: bernalvalencia10@gmail.com
 
 
 <!---
